@@ -1,16 +1,16 @@
 ### Hi everyone, Success is in your hand 👋
 
-<div style="display: flex; justify-content: center; width: 100%;">
+<p align="center">
 <img src="https://avatars.githubusercontent.com/u/81801796?s=48&v=4">
-</div>
+</p>
 
-## Who is Superbluestar🥇?
+<h2 align="center">Who is Superbluestar🥇?</h2>
 <p>
 Passionated and capable developer in Nodejs and Python development. I am trying to be more excellent developer and i believe i can do everything with my hands.</P>
 
 
 <h3>🏆 Github Profile Trophy</h3>
-<p>
+<p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 
@@ -50,8 +50,8 @@ Passionated and capable developer in Nodejs and Python development. I am trying 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-<h1 style="text-align: center;">🤲</h1>
-<p align="center" style="width: 100%;text-align: center;">
+<h1 align="center">🤲</h1>
+<p align="center">
 <a href="mailto:alexander116gm@gmail.com">Contact to me</a>
 </p>
 <!--
