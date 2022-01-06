@@ -11,15 +11,14 @@ Passionated and capable developer in Nodejs and Python development. I am trying 
 
 
 <h3>🏆 Github Profile Trophy</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div style="display: flex; width: 100%;">
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Followers">
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Commits">
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Stars">
 <br />
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Repositories">
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=PullRequest">
-![drawing](https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox)
+</div>
 
 <!--
 **SuperBluestar/SuperBluestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
