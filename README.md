@@ -50,7 +50,8 @@ Passionated and capable developer in Nodejs and Python development. I am trying 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
-<p style="text-align: center;">
+<h1 style="text-align: center;">🤲</h1>
+<p style="width: 100%;text-align: center;">
 <a href="mailto:alexander116gm@gmail.com">Contact to me</a>
 </p>
 <!--
