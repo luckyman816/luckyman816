@@ -6,11 +6,16 @@
 
 ## Who is Superbluestar?
 ```
-Passionated and capable developer in Nodejs and Python development.
+Passionated and capable developer in Nodejs and Python development. I am trying to be more excellent developer and i believe i can do everything with my hands.
 ```
 
 <h3>🏆 Github Profile Trophy</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox" style="width: 100%;">
+<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Commits">
+<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Stars">
+<br />
+<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Repositories">
+<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=PullRequest">
 ![drawing](https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox)
 
 <!--
