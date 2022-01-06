@@ -4,8 +4,10 @@
 <img src="https://avatars.githubusercontent.com/u/81801796?s=48&v=4">
 </div>
 
-Who is Superbluestar?
+## Who is Superbluestar?
+```
 Passionated and capable developer in Nodejs and Python development.
+```
 
 <h3>🏆 Github Profile Trophy</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox" style="width: 100%;">
