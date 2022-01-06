@@ -9,7 +9,10 @@
 Passionated and capable developer in Nodejs and Python development. I am trying to be more excellent developer and i believe i can do everything with my hands.
 ```
 
+
 <h3>🏆 Github Profile Trophy</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Followers">
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Commits">
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Stars">
