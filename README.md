@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; width: 100%;">
 <img src="https://avatars.githubusercontent.com/u/81801796?s=48&v=4">
 </div>
 
