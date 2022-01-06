@@ -11,15 +11,7 @@ Passionated and capable developer in Nodejs and Python development. I am trying 
 
 <h3>🏆 Github Profile Trophy</h3>
 <p>
-<a href="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Followers" target="_blank">
-<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Followers" alt="Followers"></a>
-<a href="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Commits" target="_blank">
-<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Commits">
-</a>
-<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Stars">
-<br />
-<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Repositories">
-<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=PullRequest">
+<img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest" alt="Followers, Commits, Stars, Repositories, PullRequest">
 </p>
 
 <!--
