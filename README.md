@@ -22,7 +22,7 @@ Passionated and capable developer in Nodejs and Python development. I am trying 
 
 ### Skills
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Ionic, Electron
-- 🔭 Backend : CI, Laravel, Django, Express
+- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP
 - 📫 Interesting : OpenCV, DL and AI
