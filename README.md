@@ -58,7 +58,7 @@ Passionated and capable developer in Nodejs and Python development. I am trying 
 
 <h1 align="center">🤲</h1>
 <p align="center">
-<a href="mailto:alexander116gm@gmail.com">Contact to SuperBluestar</a>
+<a href="mailto:alexander116gm@gmail.com">Email to SuperBluestar</a>
 </p>
 <p align="center">
 <a href="https://join.skype.com/invite/xlv62Y1CAbcO">Skype to SuperBluestar</a>
