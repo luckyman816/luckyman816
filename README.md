@@ -20,6 +20,8 @@ Passionated and capable developer in Nodejs and Python development. I am trying 
   <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperBluestar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Passionated business partner;Experienced nodejs frontend leader;Senior nodejs backend developer;)](https://git.io/typing-svg)
+
 ### Skills
 - 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Ionic, Electron
 - 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
