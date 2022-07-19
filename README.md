@@ -20,7 +20,7 @@ Passionated and capable developer in Nodejs and Python development. I am trying 
   <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperBluestar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionated business partner;Experienced nodejs frontend leader;Senior nodejs backend developer;" alt="Senior nodejs backend, nodejs frontend lead developer and passionated business partner" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionated%20business%20partner;Experienced%20nodejs%20frontend%20leader;Senior%20nodejs%20backend%20developer;" alt="Senior nodejs backend, nodejs frontend lead developer and passionated business partner" />
 </p>
 
 ### Skills
