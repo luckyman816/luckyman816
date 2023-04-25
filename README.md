@@ -6,8 +6,7 @@
 
 <h2 align="center">Who is Superbluestar🥇?</h2>
 <p>
-Passionated and capable developer in Nodejs and Python development. I am trying to be more excellent developer and i believe i can do everything with my hands.</P>
-
+Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
