@@ -1,4 +1,4 @@
-### Hi everyone, Success is in your hand 👋
+### Hi everyone! With me, success is in your hands 👋
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/81801796?s=48&v=4">
