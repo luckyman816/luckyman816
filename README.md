@@ -4,7 +4,7 @@
 <img src="https://avatars.githubusercontent.com/u/81801796?s=48&v=4">
 </p>
 
-<h2 align="center">Who is Superbluestar🥇?</h2>
+<h2 align="center">Who is Luckyman🥇🥈🥉?</h2>
 <p>
 Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
 
