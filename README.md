@@ -1,13 +1,12 @@
 ### Hi everyone! With me, success is in your hands 👋
 
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/81801796?s=48&v=4">
+<img src="./handshake.png" width="150px" height="150px">
 </p>
 
-<h2 align="center">Who is Luckyman🥇🥈🥉?</h2>
+<h2 align="center">Who is Senior?🥇🥈🥉?</h2>
 <p>
-Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
-
+Passionate Full-stack Developer specialized in scalable web & blockchain development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
@@ -15,16 +14,14 @@ Passionate Full-stack Developer specialized in scalable web & mobile development
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperBluestar&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
-<p align="center">
-  <img alt="SuperBluestar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SuperBluestar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
 </p>
 
 ### Skills
-- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron
-- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs
+- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron, etherJS
+- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs, Flask,NodeJS, Rust, Golang
+- 💰 Blockchain: Architecture, Ethereum, Solana, EVM, NFT, Solidity, Smart Contract, Web3
 - 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Dart
 - 📫 Interesting : OpenCV, DL and AI
@@ -69,20 +66,10 @@ Passionate Full-stack Developer specialized in scalable web & mobile development
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
+### Blockchain Technology
+<img src="./blockchain.jpg">
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 <!--
 **SuperBluestar/SuperBluestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
