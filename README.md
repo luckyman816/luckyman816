@@ -1,12 +1,5 @@
-### Hi everyone! With me, success is in your hands 👋
+<h1 align="center">Hello, everyone! With me, success is in your hands <img src="./handshake.png" width="30px" height="30px"></h1>
 
-<p align="center">
-<img src="./handshake.png" width="150px" height="150px">
-</p>
-
-<h2 align="center">Who is Senior?🥇🥈🥉?</h2>
-<p>
-Passionate Full-stack Developer specialized in scalable web & blockchain development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
@@ -17,14 +10,6 @@ Passionate Full-stack Developer specialized in scalable web & blockchain develop
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
 </p>
-
-### Skills
-- 🌱 Frontend : React, Next, Vue, Nuxt, Angular, Jquery, Bootstrap, TailwindCSS, React Native, Flutter, Ionic, Electron, etherJS
-- 🔭 Backend : CI, Laravel, Django, Express, Loopback, Nestjs, Flask,NodeJS, Rust, Golang
-- 💰 Blockchain: Architecture, Ethereum, Solana, EVM, NFT, Solidity, Smart Contract, Web3
-- 🧩 Database : MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite
-- 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, Dart
-- 📫 Interesting : OpenCV, DL and AI
 
 ### Tools
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
