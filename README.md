@@ -1,5 +1,5 @@
 <h1 align="center">Hello, everyone! With me, success is in your hands <img src="./handshake.png" width="30px" height="30px"></h1>
-
+<p align="center"><img width=""></p>
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Superbluestar&column=-1&theme=gruvbox&title=Followers,Commits,Stars,Repositories,PullRequest,Issues,Organizations,MultiLanguage" alt="Followers, Commits, Stars, Repositories, PullRequest">
@@ -8,7 +8,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SuperBluestar&langs_count=20&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+business+partner;Talented+react%2Fvue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?size=30&duration=7000&center=true&vCenter=true&width=800&height=60&lines=Passionate+Business+Partner;Talented+react%2FNext%2FVue+frontend+engineer;Experienced+nodejs+backend+engineer;Honest+smart+contract+developer;" />
 </p>
 
 ### Tools
