@@ -52,25 +52,25 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
 <p align="center">
-  <a href="https://github.com/CryptoNinja1210?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=CryptoNinja1210&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@CryptoNinja's github-readme-stats"/>
+  <a href="https://github.com/luckyman816?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=luckyman816&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@luckyman816's github-readme-stats"/>
   </a>
-  <a href="https://github.com/CryptoNinja1210?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=CryptoNinja1210&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@CryptoNinja's github-readme-streak-stats"/>
+  <a href="https://github.com/luckyman816?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=luckyman816&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@luckyman816's github-readme-streak-stats"/>
   </a>
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@CryptoNinja1210">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CryptoNinja1210&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@luckyman816">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=luckyman816&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoNinja1210&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/CryptoNinja1210?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=CryptoNinja1210&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@CryptoNinja's trophy stats"/>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyman816&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/luckyman816?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=CryptoNinja1210&theme=onestar&no-frame=true&column=3&row=2"  height="250px" alt="@luckyman816's trophy stats"/>
   </a>
 </div>
 
